@@ -3,8 +3,6 @@
 ---
 
 
-
-
 - Rm: Pooled conductance of the cell membrane 
 - [[Membrane Potential/Equivalent Components#Membrane Capacitance\|Cm]]: capacitance of the entire membrane 
 ![Pasted image 20250909211533.png](/img/user/Image/Pasted%20image%2020250909211533.png)
@@ -13,9 +11,7 @@
 - [[Membrane Potential/Electrical Components and Circuit#Capacitance (C)\|current flow into the capacitance is proportional to the rate of change of membrane voltage]]
 	- Beginning (high rate): *all current* flows into the capacitor 
 	- voltage across the circuit increase in proportion to the amount of charge transferred to the capacitor 
-		$$
-V_{m} = \frac{q}{C_{m}}
-$$
+		$$V_{m} = \frac{q}{C_{m}}$$
 - *Increase in Vm* → increase fraction of current *flowing through the resistor* 
 	- expected from Ohm's law 
 	
