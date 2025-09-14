@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/membrane-potential/rc-circuit/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/membrane-potential/rc-circuit/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
